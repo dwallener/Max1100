@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Local editor and temporary files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Reproducible logs and packaged copies of tracked project files
+*.log
+/*-build-package.zip
+
+# Keep CAD sources, STL/DXF fabrication exports, previews and references tracked.
